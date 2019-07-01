@@ -6,7 +6,5 @@ while i < 101:
         continue
 
     print(i)
-    if i == 100:
-        break
 
     i += 1
